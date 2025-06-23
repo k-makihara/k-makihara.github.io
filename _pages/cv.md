@@ -12,34 +12,30 @@ redirect_from:
 Education
 ======
 * Ph.D in Engineering, The University of Osaka, 2025
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Engineering, The University of Tsukuba, 2021
+* B.S. in Engineering, National Institute of Technology, Sasebo College, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2020 - March 2025: Research Assistant
+  * National Institute of Advanced Industrial Science and Technology
+  * Duties includes: Research on robotic picking from vision
+  * Supervisor: Yukiyasu Domae
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 - March 2025: Engineer
+  * Matuo Institute Inc.
+  * Duties included: Develop large World model and robotic foundation model
+  * Supervisor: Kodai Tabata, Tatsuya Matsushima
+  * 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ROS1
+* Python
+  * Pytorch
+  * Jax
+  * Tensorflow
+* HPC
 
 Publications
 ======
