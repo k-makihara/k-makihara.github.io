@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: ""
+title: "Makihara's Page"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 Dr. Koshi Makihara is a Postdoctoral Researcher at the Embodied AI Research Team, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan. 
